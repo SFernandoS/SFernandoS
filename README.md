@@ -1,7 +1,7 @@
 ### Hello there, I'm Fernando Vargas 👋
 ## I'm a Student, future Software Engineer and Developer!!
 
-- 🔭 I’m currently working on Banco do Brasil
+- 🔭 I’m currently working on V2TEC
 - 🌱 I’m currently learning everything I can 🤣
 - ⚡ I have one major project here: [Projeto Kokama](https://fga-eps-mds.github.io/2020.2-Projeto-Kokama-Wiki/project)
 
