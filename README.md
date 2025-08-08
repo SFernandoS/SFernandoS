@@ -1,5 +1,5 @@
 ### Hello there, I'm Fernando Vargas 👋
-## I'm a Student, future Software Engineer and Developer!!
+## I'm a Software Engineer!!
 
 - 🔭 I’m currently working on IBM
 - 🌱 I’m currently learning everything I can 🤣
