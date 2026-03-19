@@ -1,9 +1,8 @@
 ### Hello there, I'm Fernando Vargas 👋
 ## I'm a Software Engineer!!
 
-- 🔭 I’m currently working on IBM
+- 🔭 I’m currently working on PagBanks
 - 🌱 I’m currently learning everything I can 🤣
-- ⚡ I have one major project here: [Projeto Kokama](https://fga-eps-mds.github.io/2020.2-Projeto-Kokama-Wiki/project)
 
 <br>
 
